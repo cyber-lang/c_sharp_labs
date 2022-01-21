@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4gSK2FkKKHVaEIEdTagoEaKwJnts2O28lSbQIU5HbyKkveTyJ1663LU6TwQI6eMO3Ccy6nADAvyffiiceJbPjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\valer\\OneDrive\\Рабочий стол\\c_sharp_labs\\ConsoleApp1\\ConsoleApp1\\Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\valer\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\valer\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
